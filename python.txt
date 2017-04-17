@@ -1,0 +1,6 @@
+with open("python.txt", "a") as file:
+	file.write("\nprint(2)\n")
+
+print(2)
+
+print(2)
